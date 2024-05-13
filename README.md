@@ -1,6 +1,6 @@
 ### Olá eu sou Gabriel Borges 👋
 
-- 🔭 Atualmente eu trabalho como auxiliar de escritório
+- 🔭 Atualmente eu trabalho como auxiliar Administrativo
 - 🌱 Estudo: HTML, CSS E JavaScript, com foco em virar Desenvolvedor Web Full Stack
 - 😄 Pronouns: ele/dele
 
